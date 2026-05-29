@@ -5,3 +5,5 @@ matplotlib
 jupyter
 ipykernel
 python-dotenv
+pyspark
+delta-spark
