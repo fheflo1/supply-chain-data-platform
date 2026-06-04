@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+
+data/raw/*
+data/landing/*
+data/bronze/*
+data/archive/*
+data/silver/*
+data/gold/*
+data/checkpoints/*
+
+!data/raw/.gitkeep
+!data/landing/.gitkeep
+!data/bronze/.gitkeep
+!data/archive/.gitkeep
+!data/silver/.gitkeep
+!data/gold/.gitkeep
+!data/checkpoints/.gitkeep
